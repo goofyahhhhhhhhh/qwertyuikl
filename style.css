@@ -1,0 +1,203 @@
+body{
+    background-color:#1c4320;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo{
+    top: 0;
+    height: 60px;
+}
+
+#toppi{
+    border-radius: 0;
+    background-color: #5cb85c;
+    color:black;
+    width:40%;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#toppi2{
+    height:65px;
+    color:#adff2f;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #004409;
+    width:100%;
+}
+
+#g{
+    margin-bottom: 40px;
+}
+
+#eiejoweijwoejweoejwioejw{
+    color:#adff2f;
+    width:100%;
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnji{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("carnimono.png");
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnje{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("poisomono.png");
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnjo{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("pyropmono.png");
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnju{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("thorn.png");
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnja{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("intoxmono.png");
+}
+
+#tgbynuijrghyefwnmjgtrekmwofviewnjfwokejtuhngjewqfkmweoegwhrnj{
+    height:250px;
+    width:475px;
+    margin: 10px;
+    border-radius: 20px;
+    color:#adff2f;
+    text-shadow: 2px 2px 3px #3a0000, -2px 2px 3px #3a0000, 3px 3px 2px #3a0000, -3px 3px 2px #3a0000;
+    background-size: cover;
+    background-image: url("misc.png");
+}
+
+#carb1{
+    background-color:#3a0000;
+    border-radius: 20px;
+    color:#ec4006;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#carb2{
+    background-color:#002205;
+    border-radius: 20px;
+    color:#adff2f;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#carb3{
+    background-color:#003546;
+    border-radius: 20px;
+    color:#2fffff;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#c1{
+    border-radius:70px;
+    width:335px;
+    height:275px;
+    box-shadow: 1px 1px 1px 3px rgb(160, 2, 2);
+}
+
+#c2{
+    border-radius:70px;
+    width:335px;
+    height:275px;
+    box-shadow: 1px 1px 1px 3px rgb(2, 160, 39);
+}
+
+#c3{
+    border-radius:70px;
+    width:335px;
+    height:275px;
+    box-shadow: 1px 1px 1px 3px rgb(2, 160, 157);
+}
+
+
+#btnc{
+    border-style:ridge;
+    background-color:#5cb85c;
+    color: #1c4320;
+    border-radius: 20px;
+}
+
+#patapim{
+    border-radius: 42px;
+    border-color: #002205;
+}
+
+#trala{
+    background-color: #2cb650;
+    border-color: #002205;
+    color:#102712;
+    text-shadow: 1px 1px 3px #3a0000;
+}
+
+#pata{
+    background-color: #9d0000;
+    border-color: #002205;
+    color:#3a0000;
+    text-shadow: 1px 1px 3px #004409;
+}
+
+#tung{
+    background-color: #005b7a;
+    border-color: #002205;
+    color:#001b22;
+    text-shadow: 1px 1px 3px #2f0044;
+}
+
+#lero{
+    background-color: #001005;
+    border-color: #002205;
+    color: #a3f924;
+}
+
+#pim{
+    background-color: #1b0000;
+    border-color: #002205;
+    color: #d40000;
+}
+
+#sahur{
+    background-color: #00171b;
+    border-color: #002205;
+    color: #00769d;
+}
+
+#e{
+    color:black;
+}
